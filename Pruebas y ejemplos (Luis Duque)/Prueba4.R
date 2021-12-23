@@ -36,4 +36,3 @@ library(colormap)
 
 barplot(tabla_rel_fila_cumsum, beside = TRUE, legend=TRUE, col = colormap(colormap = colormaps$temperature, nshades = 4))
 
-        
